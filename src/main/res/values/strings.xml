@@ -4,5 +4,6 @@
     <string name="app_name">AngelsLocation</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-
+    <string name="intent.angel.zhuoxiu.location.get">angel.zhuoxiu.location.GET</string>
+    <string name="intent.angel.zhuoxiu.location.parse">angel.zhuoxiu.location.PARSE</string>
 </resources>
